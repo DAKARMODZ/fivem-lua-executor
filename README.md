@@ -13,5 +13,3 @@
 
  5. Tab to open executor, enjoy
 
-
-❮img src="images/you-picture.png" ❯
